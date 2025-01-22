@@ -1,2 +1,2 @@
 # nodejs-api-boilerplate
-Boilerplate com "clean architecture" para início de projetos API Rest, utilizando Node e Express.
+Boilerplate with "clean architecture" for starting Rest API projects, using Node and Express.
